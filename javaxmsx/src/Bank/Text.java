@@ -9,7 +9,7 @@ public class Text {
 //        首先向该账户存入1000元，再取出800元。
         Scanner sc=new Scanner(System.in);
         Bank ba=new Bank();
-        System.out.println("0---------退出");
+        System.out.println("0--11-----退出");
         System.out.println("1---------存款");
         System.out.println("2---------取款");
         System.out.println("3---------查询");
