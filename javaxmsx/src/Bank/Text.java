@@ -14,6 +14,7 @@ public class Text {
         System.out.println("2---------取款");
         System.out.println("3---------查询");
         System.out.println("lalala");
+        System.out.println("woshibuzhidao");
         while (true) {
 
             System.out.println("请输入所需服务：");
