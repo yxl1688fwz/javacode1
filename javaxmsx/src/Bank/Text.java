@@ -11,7 +11,7 @@ public class Text {
         Bank ba=new Bank();
         System.out.println("0--11-----退出");
         System.out.println("1-----222----存款");
-        System.out.println("2---------取款");
+        System.out.println("2-----33----取款");
         System.out.println("3---------查询");
         while (true) {
 
